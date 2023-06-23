@@ -1,0 +1,9 @@
+
+
+npx create-react-app react-news-app
+
+cd react-news-app
+
+
+npm start
+
